@@ -1,5 +1,5 @@
 {
-  "name": "restful-react",
+  "name": "component-generate-REST",
   "version": "15.8.0",
   "description": "A consistent, declarative way of interacting with RESTful backends, featuring code-generation from Swagger and OpenAPI specs",
   "keywords": [
