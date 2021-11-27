@@ -10,8 +10,8 @@
     "fetch",
     "data fetching"
   ],
-  "homepage": "https://github.com/contiamo/restful-react",
-  "bugs": "https://github.com/contiamo/restful-react/issues",
+  "homepage": "https://github.com/chef1119/component-generate-REST",
+  "bugs": "https://github.com/chef1119/component-generate-REST/issues",
   "license": "MIT",
   "contributors": [
     {
@@ -28,9 +28,6 @@
   "files": [
     "dist"
   ],
-  "bin": {
-    "restful-react": "dist/bin/restful-react.js"
-  },
   "main": "dist/index.js",
   "typings": "dist/index.d.ts",
   "module": "dist/restful-react.esm.js",
